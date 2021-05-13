@@ -1,3 +1,7 @@
+
+# ==> Para testar abra o diretorio com o vscode, execute a aplicação e abra o arquivo Front/index.htm com o navegador de sua preferencia
+
+######################################################################################################
 # Teste admissional prático da Apisul
 
 Suponha que a administração do prédio 99a da Tecnopuc, com 16 andares e cinco elevadores, denominados A, B, C, D e E, nos convidou a aperfeiçoar o sistema de controle dos elevadores. Depois de realizado um levantamento no qual cada usuário respondia:  
@@ -18,3 +22,4 @@ Considerando que este possa evoluir para um sistema dinâmico, escreva o código
 * Para a realização do exercício você deve implementar a interface IElevadorService.
 
 * Faça a leitura do arquivo input.json para ter acesso às entradas.
+
