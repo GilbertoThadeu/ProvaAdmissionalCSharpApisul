@@ -1,0 +1,60 @@
+C:\Users\Dados\source\repos\ProvaAdmissionalCSharpApisul\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Dados\source\repos\ProvaAdmissionalCSharpApisul\bin\Debug\net5.0\appsettings.json
+C:\Users\Dados\source\repos\ProvaAdmissionalCSharpApisul\bin\Debug\net5.0\input.json
+C:\Users\Dados\source\repos\ProvaAdmissionalCSharpApisul\bin\Debug\net5.0\ProvaAdmissionalCSharpApisul.exe
+C:\Users\Dados\source\repos\ProvaAdmissionalCSharpApisul\bin\Debug\net5.0\ProvaAdmissionalCSharpApisul.deps.json
+C:\Users\Dados\source\repos\ProvaAdmissionalCSharpApisul\bin\Debug\net5.0\ProvaAdmissionalCSharpApisul.runtimeconfig.json
+C:\Users\Dados\source\repos\ProvaAdmissionalCSharpApisul\bin\Debug\net5.0\ProvaAdmissionalCSharpApisul.runtimeconfig.dev.json
+C:\Users\Dados\source\repos\ProvaAdmissionalCSharpApisul\bin\Debug\net5.0\ProvaAdmissionalCSharpApisul.dll
+C:\Users\Dados\source\repos\ProvaAdmissionalCSharpApisul\bin\Debug\net5.0\ref\ProvaAdmissionalCSharpApisul.dll
+C:\Users\Dados\source\repos\ProvaAdmissionalCSharpApisul\bin\Debug\net5.0\ProvaAdmissionalCSharpApisul.pdb
+C:\Users\Dados\source\repos\ProvaAdmissionalCSharpApisul\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Dados\source\repos\ProvaAdmissionalCSharpApisul\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dados\source\repos\ProvaAdmissionalCSharpApisul\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dados\source\repos\ProvaAdmissionalCSharpApisul\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dados\source\repos\ProvaAdmissionalCSharpApisul\obj\Debug\net5.0\ProvaAdmissionalCSharpApisul.csprojAssemblyReference.cache
+C:\Users\Dados\source\repos\ProvaAdmissionalCSharpApisul\obj\Debug\net5.0\ProvaAdmissionalCSharpApisul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dados\source\repos\ProvaAdmissionalCSharpApisul\obj\Debug\net5.0\ProvaAdmissionalCSharpApisul.AssemblyInfoInputs.cache
+C:\Users\Dados\source\repos\ProvaAdmissionalCSharpApisul\obj\Debug\net5.0\ProvaAdmissionalCSharpApisul.AssemblyInfo.cs
+C:\Users\Dados\source\repos\ProvaAdmissionalCSharpApisul\obj\Debug\net5.0\ProvaAdmissionalCSharpApisul.csproj.CoreCompileInputs.cache
+C:\Users\Dados\source\repos\ProvaAdmissionalCSharpApisul\obj\Debug\net5.0\ProvaAdmissionalCSharpApisul.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dados\source\repos\ProvaAdmissionalCSharpApisul\obj\Debug\net5.0\ProvaAdmissionalCSharpApisul.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dados\source\repos\ProvaAdmissionalCSharpApisul\obj\Debug\net5.0\staticwebassets\ProvaAdmissionalCSharpApisul.StaticWebAssets.Manifest.cache
+C:\Users\Dados\source\repos\ProvaAdmissionalCSharpApisul\obj\Debug\net5.0\staticwebassets\ProvaAdmissionalCSharpApisul.StaticWebAssets.xml
+C:\Users\Dados\source\repos\ProvaAdmissionalCSharpApisul\obj\Debug\net5.0\scopedcss\bundle\ProvaAdmissionalCSharpApisul.styles.css
+C:\Users\Dados\source\repos\ProvaAdmissionalCSharpApisul\obj\Debug\net5.0\ProvaAdmissionalCSharpApisul.RazorTargetAssemblyInfo.cache
+C:\Users\Dados\source\repos\ProvaAdmissionalCSharpApisul\obj\Debug\net5.0\ProvaAdmissionalCSharpApisul.csproj.CopyComplete
+C:\Users\Dados\source\repos\ProvaAdmissionalCSharpApisul\obj\Debug\net5.0\ProvaAdmissionalCSharpApisul.dll
+C:\Users\Dados\source\repos\ProvaAdmissionalCSharpApisul\obj\Debug\net5.0\ref\ProvaAdmissionalCSharpApisul.dll
+C:\Users\Dados\source\repos\ProvaAdmissionalCSharpApisul\obj\Debug\net5.0\ProvaAdmissionalCSharpApisul.pdb
+C:\Users\Dados\source\repos\ProvaAdmissionalCSharpApisul\obj\Debug\net5.0\ProvaAdmissionalCSharpApisul.genruntimeconfig.cache
+C:\Users\gilbe\OneDrive\Documentos\Codigo Fonte\C# Web\ProvaAdmissionalCSharpApisul\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\gilbe\OneDrive\Documentos\Codigo Fonte\C# Web\ProvaAdmissionalCSharpApisul\bin\Debug\net5.0\appsettings.json
+C:\Users\gilbe\OneDrive\Documentos\Codigo Fonte\C# Web\ProvaAdmissionalCSharpApisul\bin\Debug\net5.0\input.json
+C:\Users\gilbe\OneDrive\Documentos\Codigo Fonte\C# Web\ProvaAdmissionalCSharpApisul\bin\Debug\net5.0\ProvaAdmissionalCSharpApisul.exe
+C:\Users\gilbe\OneDrive\Documentos\Codigo Fonte\C# Web\ProvaAdmissionalCSharpApisul\bin\Debug\net5.0\ProvaAdmissionalCSharpApisul.deps.json
+C:\Users\gilbe\OneDrive\Documentos\Codigo Fonte\C# Web\ProvaAdmissionalCSharpApisul\bin\Debug\net5.0\ProvaAdmissionalCSharpApisul.runtimeconfig.json
+C:\Users\gilbe\OneDrive\Documentos\Codigo Fonte\C# Web\ProvaAdmissionalCSharpApisul\bin\Debug\net5.0\ProvaAdmissionalCSharpApisul.runtimeconfig.dev.json
+C:\Users\gilbe\OneDrive\Documentos\Codigo Fonte\C# Web\ProvaAdmissionalCSharpApisul\bin\Debug\net5.0\ProvaAdmissionalCSharpApisul.dll
+C:\Users\gilbe\OneDrive\Documentos\Codigo Fonte\C# Web\ProvaAdmissionalCSharpApisul\bin\Debug\net5.0\ref\ProvaAdmissionalCSharpApisul.dll
+C:\Users\gilbe\OneDrive\Documentos\Codigo Fonte\C# Web\ProvaAdmissionalCSharpApisul\bin\Debug\net5.0\ProvaAdmissionalCSharpApisul.pdb
+C:\Users\gilbe\OneDrive\Documentos\Codigo Fonte\C# Web\ProvaAdmissionalCSharpApisul\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\gilbe\OneDrive\Documentos\Codigo Fonte\C# Web\ProvaAdmissionalCSharpApisul\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gilbe\OneDrive\Documentos\Codigo Fonte\C# Web\ProvaAdmissionalCSharpApisul\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gilbe\OneDrive\Documentos\Codigo Fonte\C# Web\ProvaAdmissionalCSharpApisul\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gilbe\OneDrive\Documentos\Codigo Fonte\C# Web\ProvaAdmissionalCSharpApisul\obj\Debug\net5.0\ProvaAdmissionalCSharpApisul.csprojAssemblyReference.cache
+C:\Users\gilbe\OneDrive\Documentos\Codigo Fonte\C# Web\ProvaAdmissionalCSharpApisul\obj\Debug\net5.0\ProvaAdmissionalCSharpApisul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilbe\OneDrive\Documentos\Codigo Fonte\C# Web\ProvaAdmissionalCSharpApisul\obj\Debug\net5.0\ProvaAdmissionalCSharpApisul.AssemblyInfoInputs.cache
+C:\Users\gilbe\OneDrive\Documentos\Codigo Fonte\C# Web\ProvaAdmissionalCSharpApisul\obj\Debug\net5.0\ProvaAdmissionalCSharpApisul.AssemblyInfo.cs
+C:\Users\gilbe\OneDrive\Documentos\Codigo Fonte\C# Web\ProvaAdmissionalCSharpApisul\obj\Debug\net5.0\ProvaAdmissionalCSharpApisul.csproj.CoreCompileInputs.cache
+C:\Users\gilbe\OneDrive\Documentos\Codigo Fonte\C# Web\ProvaAdmissionalCSharpApisul\obj\Debug\net5.0\ProvaAdmissionalCSharpApisul.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gilbe\OneDrive\Documentos\Codigo Fonte\C# Web\ProvaAdmissionalCSharpApisul\obj\Debug\net5.0\ProvaAdmissionalCSharpApisul.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gilbe\OneDrive\Documentos\Codigo Fonte\C# Web\ProvaAdmissionalCSharpApisul\obj\Debug\net5.0\staticwebassets\ProvaAdmissionalCSharpApisul.StaticWebAssets.Manifest.cache
+C:\Users\gilbe\OneDrive\Documentos\Codigo Fonte\C# Web\ProvaAdmissionalCSharpApisul\obj\Debug\net5.0\staticwebassets\ProvaAdmissionalCSharpApisul.StaticWebAssets.xml
+C:\Users\gilbe\OneDrive\Documentos\Codigo Fonte\C# Web\ProvaAdmissionalCSharpApisul\obj\Debug\net5.0\scopedcss\bundle\ProvaAdmissionalCSharpApisul.styles.css
+C:\Users\gilbe\OneDrive\Documentos\Codigo Fonte\C# Web\ProvaAdmissionalCSharpApisul\obj\Debug\net5.0\ProvaAdmissionalCSharpApisul.RazorTargetAssemblyInfo.cache
+C:\Users\gilbe\OneDrive\Documentos\Codigo Fonte\C# Web\ProvaAdmissionalCSharpApisul\obj\Debug\net5.0\ProvaAdmissionalCSharpApisul.csproj.CopyComplete
+C:\Users\gilbe\OneDrive\Documentos\Codigo Fonte\C# Web\ProvaAdmissionalCSharpApisul\obj\Debug\net5.0\ProvaAdmissionalCSharpApisul.dll
+C:\Users\gilbe\OneDrive\Documentos\Codigo Fonte\C# Web\ProvaAdmissionalCSharpApisul\obj\Debug\net5.0\ref\ProvaAdmissionalCSharpApisul.dll
+C:\Users\gilbe\OneDrive\Documentos\Codigo Fonte\C# Web\ProvaAdmissionalCSharpApisul\obj\Debug\net5.0\ProvaAdmissionalCSharpApisul.pdb
+C:\Users\gilbe\OneDrive\Documentos\Codigo Fonte\C# Web\ProvaAdmissionalCSharpApisul\obj\Debug\net5.0\ProvaAdmissionalCSharpApisul.genruntimeconfig.cache

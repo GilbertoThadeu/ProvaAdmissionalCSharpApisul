@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Prova Admissional Csharp Apisul</title>
+    <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/site.css" />
+    <script type="text/javascript" src="js/script.js"></script>
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand" href="https://www.apisul.com.br/">Apisul</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse"
+                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" href="index.htm">Inicio</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" href="https://www.linkedin.com/in/gilberto-thadeu-de-souza-0b987943/">LinkedIn</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+
+            <div class="text-center">
+                <h1 class="display-4">Bem Vindo!</h1>
+
+                <div class="row">
+                    <div class="col-sm-4">
+                        <div class="card">
+                            <h5 class="card-header">Andar Menos Utilizado</h5>
+                            <div id="andarMenosUtilizado" class="card-body">
+                                <p class="card-text">Veja uma List contendo o(s) andar(es) menos utilizado(s).</p>
+                                <a onclick="Requisicao('andarMenosUtilizado')" class="btn btn-primary">Mostrar</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="card">
+                            <h5 class="card-header">Elevador Mais Frequentado</h5>
+                            <div id="elevadorMaisFrequentado" class="card-body">
+                                <p class="card-text">Veja uma List contendo o(s) elevador(es) mais frequentado(s).</p>
+                                <a onclick="Requisicao('elevadorMaisFrequentado')" class="btn btn-primary">Mostrar</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="card">
+                            <h5 class="card-header">Periodo Maior Fluxo Elevador Mais Frequentado</h5>
+                            <div id="periodoMaiorFluxoElevadorMaisFrequentado" class="card-body">
+                                <p class="card-text">Veja uma List contendo o período de maior fluxo de cada um dos
+                                    elevadores mais frequentados (se houver mais de um).</p>
+                                <a onclick="Requisicao('periodoMaiorFluxoElevadorMaisFrequentado')"
+                                    class="btn btn-primary">Mostrar</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-4">
+                        <div class="card">
+                            <h5 class="card-header">Elevador Menos Frequentado</h5>
+                            <div id="elevadorMenosFrequentado" class="card-body">
+                                <p class="card-text">Veja uma List contendo o(s) elevador(es) menos frequentado(s).</p>
+                                <a onclick="Requisicao('elevadorMenosFrequentado')" class="btn btn-primary">Mostrar</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="card">
+                            <h5 class="card-header">Periodo Menor Fluxo Elevador Menos Frequentado</h5>
+                            <div id="periodoMenorFluxoElevadorMenosFrequentado" class="card-body">
+                                <p class="card-text">Veja uma List contendo o período de menor fluxo de cada um dos elevadores menos frequentados (se houver mais de um).</p>
+                                <a onclick="Requisicao('periodoMenorFluxoElevadorMenosFrequentado')" class="btn btn-primary">Mostrar</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="card">
+                            <h5 class="card-header">Periodo Maior Utilizacao Conjunto Elevadores</h5>
+                            <div id="periodoMaiorUtilizacaoConjuntoElevadores" class="card-body">
+                                <p class="card-text">Veja uma List contendo o(s) periodo(s) de maior utilização do conjunto de elevadores.</p>
+                                <a onclick="Requisicao('periodoMaiorUtilizacaoConjuntoElevadores')" class="btn btn-primary">Mostrar</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-4">
+                        <div class="card">
+                            <h5 class="card-header">Percentual De Uso Elevador A</h5>
+                            <div id="percentualDeUsoElevadorA" class="card-body">
+                                <p class="card-text">Veja um float (duas casas decimais) contendo o percentual de uso do elevador A em relação a todos os serviços prestados.</p>
+                                <a onclick="Requisicao('percentualDeUsoElevadorA')" class="btn btn-primary">Mostrar</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="card">
+                            <h5 class="card-header">Percentual De Uso Elevador B</h5>
+                            <div id="percentualDeUsoElevadorB" class="card-body">
+                                <p class="card-text">Veja um float (duas casas decimais) contendo o percentual de uso do elevador B em relação a todos os serviços prestados.</p>
+                                <a onclick="Requisicao('percentualDeUsoElevadorB')" class="btn btn-primary">Mostrar</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="card">
+                            <h5 class="card-header">Percentual De Uso Elevador C</h5>
+                            <div id="percentualDeUsoElevadorC" class="card-body">
+                                <p class="card-text">Veja um float (duas casas decimais) contendo o percentual de uso do elevador C em relação a todos os serviços prestados.</p>
+                                <a onclick="Requisicao('percentualDeUsoElevadorC')" class="btn btn-primary">Mostrar</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-4">
+                        <div class="card">
+                            <h5 class="card-header">Percentual De Uso Elevador D</h5>
+                            <div id="percentualDeUsoElevadorD" class="card-body">
+                                <p class="card-text">Veja um float (duas casas decimais) contendo o percentual de uso do elevador D em relação a todos os serviços prestados.</p>
+                                <a onclick="Requisicao('percentualDeUsoElevadorD')" class="btn btn-primary">Mostrar</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="card">
+                            <h5 class="card-header">Percentual De Uso Elevador E</h5>
+                            <div id="percentualDeUsoElevadorE" class="card-body">
+                                <p class="card-text">Veja um float (duas casas decimais) contendo o percentual de uso do elevador E em relação a todos os serviços prestados.</p>
+                                <a onclick="Requisicao('percentualDeUsoElevadorE')" class="btn btn-primary">Mostrar</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            <p>Desenvolvido por <a href="https://www.linkedin.com/in/gilberto-thadeu-de-souza-0b987943/">Gilberto
+                    Thadeu</a>.</p>
+        </div>
+    </footer>
+
+    <script src="lib/jquery/dist/jquery.min.js"></script>
+    <script src="lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html>
