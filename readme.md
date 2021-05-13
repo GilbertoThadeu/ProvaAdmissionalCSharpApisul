@@ -1,5 +1,5 @@
 
-# ==> Para testar abra o diretorio com o vscode, execute a aplicação e abra o arquivo Front/index.htm com o navegador de sua preferencia
+# ==> Para testar abra o diretório com o vscode, execute a aplicação e abra o arquivo Front/index.htm com o navegador de sua preferência
 
 ######################################################################################################
 # Teste admissional prático da Apisul
